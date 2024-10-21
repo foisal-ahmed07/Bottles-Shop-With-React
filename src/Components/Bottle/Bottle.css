@@ -1,0 +1,12 @@
+.bottle-img{
+    width: 200px;
+    border-radius: 20px;
+    
+}
+
+.bottle-container {
+  border: 2px solid royalblue;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 15px;
+}
